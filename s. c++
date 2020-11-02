@@ -1,0 +1,6 @@
+#include<iostream>
+using name space std;
+int main(){
+cout<<"你是傻逼";
+return 0;
+}
